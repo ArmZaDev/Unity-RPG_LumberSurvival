@@ -5,6 +5,8 @@ RPG Lumber Survival Game
 
 #Launcher game https://mega.nz/folder/IsdxUCCa#DdnIkCK59uU-TsVmDecGxQ
 
+Version Unity 2018.1.1f1
+
 # Credit
 KongRuksiam Official https://www.youtube.com/watch?v=Fde9Qf1YAnQ
 
